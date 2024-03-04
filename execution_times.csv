@@ -1,0 +1,6 @@
+Iteration,HiveQL_Time,SparkSQL_Time
+1, 0m47.165s, 0m50.591s
+2, 0m44.515s, 0m46.060s
+3, 0m40.606s, 0m43.760s
+4, 0m43.132s, 0m41.166s
+5, 0m43.893s, 0m44.501s

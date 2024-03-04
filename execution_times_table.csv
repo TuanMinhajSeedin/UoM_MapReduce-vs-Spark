@@ -1,0 +1,6 @@
+Mapping,HiveQL_Time,SparkSQL_Time
+Career delay query,0m58.340s,0m43.824s
+Nas delay query,0m42.040s,0m41.719s
+Weather delay query,0m43.682s,0m44.415s
+Late aircraft delay query,0m42.455s,0m43.383s
+Security delay query,0m34.011s,0m44.908s
